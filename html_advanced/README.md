@@ -25,4 +25,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - You are not allowed to install, import or use external libraries. This website must be build with only HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc.
 - Your code should be W3C compliant and validate with [W3C-Validator](https://intranet.aluswe.com/rltoken/Dzwkd63Mmcw7FNXDmnGTsg)
 
-![HTML Logo]("C:\Users\longm\Desktop\ALU_COURSEWORK\alu-web-development\HTML5_Logo_512.png")
+![Screenshot 2023-01-27 033219](https://user-images.githubusercontent.com/109472244/214980927-73e3b0a4-f0b2-411b-a3bd-b48cf623eee4.png)
